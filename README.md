@@ -7,7 +7,7 @@ This is a beginner-level project demonstrating basic HRV (Heart Rate Variability
 - `hrv_sample_data.csv`: Simulated RR interval data (in milliseconds)
 - `HRV_Analysis.ipynb`: Jupyter notebook that performs basic analysis (Mean RR, SDNN) and plotting
 
-## What You'll Learn
+##  Learning Goals
 
 - How to load and process HRV data in Python
 - Simple time-domain HRV metrics
